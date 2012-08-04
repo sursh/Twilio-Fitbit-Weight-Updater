@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Twilio-Fitbit integration
+=======
+Twilio-Fitbit Integration.
+>>>>>>> e26a7d6c908a3097d8f94fdb4fd1f3d6d7f219ff
 
 Sasha Laundy, 2012
 
