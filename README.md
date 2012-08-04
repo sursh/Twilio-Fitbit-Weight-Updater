@@ -1,7 +1,8 @@
 Twilio-Fitbit integration
+
 Sasha Laundy, 2012
 
-This app lets you update your Fitbit weight in your Fitbit profile by sending a text message. I am too cheap to buy their wireless scale for $130, and would rather pay Twilio $7.30/year.
+This app lets you update your weight in your Fitbit profile by sending a text message. I am too cheap to buy their wireless scale for $130, and would rather pay Twilio $7.30/year.
 
 Fitbit is a sophisticated pedometer that wirelessly syncs when you're near your base station. It updates your data to your Fitbit dashboard at fitbit.com. It's pretty cool because it helps you measure and change your activity and sleep levels. You'll need an account with them in order to use this app. 
 
@@ -15,7 +16,6 @@ API info:
 
 Setup:
  * Store your Fitbit consumer key and consumer secret in credentials.py
- * Store your Twilio account SID and auth token in credentials.py
  * Update your name, phone number, and units choice in config.py
 
 Usage: 
