@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Twilio-Fitbit integration
-=======
 Twilio-Fitbit Integration.
->>>>>>> e26a7d6c908a3097d8f94fdb4fd1f3d6d7f219ff
 
 Sasha Laundy, 2012
 
@@ -31,11 +27,8 @@ Usage:
 
 Thanks: 
 
-Many thanks to mikew on the Fitbit forums for sharing his oauth script: 
-https://groups.google.com/forum/#!msg/fitbit-api/CkXQ6-0-vMs/VaX_V6gm3BUJ
+Many thanks to mikew on the Fitbit forums for [sharing his oauth script](https://groups.google.com/forum/#!msg/fitbit-api/CkXQ6-0-vMs/VaX_V6gm3BUJ)
 
-Props to Rob Spectre for his Twilio on Flask tutorial: 
-http://www.twilio.com/blog/2012/01/making-an-sms-birthday-card-with-python-and-flask.html
+Props to Rob Spectre for his [Twilio on Flask tutorial](http://www.twilio.com/blog/2012/01/making-an-sms-birthday-card-with-python-and-flask.html)
 
-This explanation was very helpful for wrapping my mind around oauth: 
-http://marktrapp.com/blog/2009/09/17/oauth-dummies
+[This explanation](http://marktrapp.com/blog/2009/09/17/oauth-dummies) was very helpful for wrapping my mind around oauth: 
